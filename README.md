@@ -3,7 +3,7 @@
 To use, just type .mono/.sans
 
 
-Options:
+## Heading 2 ##Options:
 
 weight - light,(default),bold,black
 
