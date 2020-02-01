@@ -1,16 +1,16 @@
-# fonts
+# Fonts
 
 To use, just type .mono/.sans
 
-
-## Heading 2 ##Options:
+<br><br>
+## Options:
 
 weight - light,(default),bold,black
 
 italic - (defualt),italic
 
 
-Examples: 
+## Examples: 
 
 .mono-bold
 
