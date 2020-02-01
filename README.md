@@ -1,13 +1,12 @@
 # Fonts
 
-To use, just type .mono/.sans
+To use, just type .mono/.sans <br>
 
-<br><br>
 ## Options:
 
-weight - light,(default),bold,black
+weight { light, (default), bold, black }
 
-italic - (defualt),italic
+italic { (defualt), italic } <br>
 
 
 ## Examples: 
