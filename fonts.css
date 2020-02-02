@@ -1,81 +1,81 @@
 @font-face {
   font-family: 'Vulf Mono';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/mono/Vulf_Mono-Light_web.woff") format("woff");
+  src: url("mono/Vulf_Mono-Light_web.woff") format("woff");
   font-weight: 300;
   font-style: normal; }
 @font-face {
   font-family: 'Vulf Mono';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/mono/Vulf_Mono-Light_Italic_web.woff") format("woff");
+  src: url("mono/Vulf_Mono-Light_Italic_web.woff") format("woff");
   font-weight: 300;
   font-style: italic; }
 @font-face {
   font-family: 'Vulf Mono';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/mono/Vulf_Mono-Regular_web.woff") format("woff");
+  src: url("mono/Vulf_Mono-Regular_web.woff") format("woff");
   font-weight: 400;
   font-style: normal; }
 @font-face {
   font-family: 'Vulf Mono';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/mono/Vulf_Mono-Italic_web.woff") format("woff");
+  src: url("mono/Vulf_Mono-Italic_web.woff") format("woff");
   font-weight: 400;
   font-style: italic; }
 @font-face {
   font-family: 'Vulf Mono';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/mono/Vulf_Mono-Bold_web.woff") format("woff");
+  src: url("mono/Vulf_Mono-Bold_web.woff") format("woff");
   font-weight: 700;
   font-style: normal; }
 @font-face {
   font-family: 'Vulf Mono';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/mono/Vulf_Mono-Bold_Italic_web.woff") format("woff");
+  src: url("mono/Vulf_Mono-Bold_Italic_web.woff") format("woff");
   font-weight: 700;
   font-style: italic; }
 @font-face {
   font-family: 'Vulf Mono';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/mono/Vulf_Mono-Black_web.woff") format("woff");
+  src: url("mono/Vulf_Mono-Black_web.woff") format("woff");
   font-weight: 900;
   font-style: normal; }
 @font-face {
   font-family: 'Vulf Mono';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/mono/Vulf_Mono-Black_Italic_web.woff") format("woff");
+  src: url("mono/Vulf_Mono-Black_Italic_web.woff") format("woff");
   font-weight: 900;
   font-style: italic; }
 @font-face {
   font-family: 'Vulf Sans';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/sans/Vulf_Sans-Light.woff") format("woff");
+  src: url("sans/Vulf_Sans-Light.woff") format("woff");
   font-weight: 300;
   font-style: normal; }
 @font-face {
   font-family: 'Vulf Sans';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/sans/Vulf_Sans-Light_Italic.woff") format("woff");
+  src: url("sans/Vulf_Sans-Light_Italic.woff") format("woff");
   font-weight: 300;
   font-style: italic; }
 @font-face {
   font-family: 'Vulf Sans';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/sans/Vulf_Sans-Medium.woff") format("woff");
+  src: url("sans/Vulf_Sans-Medium.woff") format("woff");
   font-weight: 400;
   font-style: normal; }
 @font-face {
   font-family: 'Vulf Sans';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/sans/Vulf_Sans-Medium_Italic.woff") format("woff");
+  src: url("sans/Vulf_Sans-Medium_Italic.woff") format("woff");
   font-weight: 400;
   font-style: italic; }
 @font-face {
   font-family: 'Vulf Sans';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/sans/Vulf_Sans-Bold.woff") format("woff");
+  src: url("sans/Vulf_Sans-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal; }
 @font-face {
   font-family: 'Vulf Sans';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/sans/Vulf_Sans-Bold_Italic.woff") format("woff");
+  src: url("sans/Vulf_Sans-Bold_Italic.woff") format("woff");
   font-weight: 700;
   font-style: italic; }
 @font-face {
   font-family: 'Vulf Sans';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/sans/Vulf_Sans-Black.woff") format("woff");
+  src: url("sans/Vulf_Sans-Black.woff") format("woff");
   font-weight: 900;
   font-style: normal; }
 @font-face {
   font-family: 'Vulf Sans';
-  src: url("https://gitcdn.link/repo/OliverBrotchie/fonts/master/sans/Vulf_Sans-Black_Italic.woff") format("woff");
+  src: url("sans/Vulf_Sans-Black_Italic.woff") format("woff");
   font-weight: 900;
   font-style: italic; }
 .mono, .mono-italic, .mono-light, .mono-light-italic, .mono-bold, .mono-bold-italic, .mono-black, .mono-black-italic {
